@@ -1,0 +1,20 @@
+:root{
+    --cor-primaria:  #4e031e ;
+    --cor-secundaria: #5d2d4e ;
+    --cor-terciaria: #5a4c6e ;
+    --cor-quartenaria:  #447390 ;
+    --cor-quintenaria:  #05a1ad ;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--cor-primaria);
+    color: white;
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
